@@ -1,8 +1,6 @@
 Goal-reaching simulation in Unity by combining to use ML-Agents toolkit and Anaconda involves training an agent to navigate and interact with environments to reach predefined goal target. This task tests the agent’s ability to learn efficient policies in continuous and limited spaces. Building on this, our work focuses on using PPO algorithm and improving it by optimizing hyperparameters, refining reward structures, and applying curriculum learning strategies to enhance learning speed and policy robustness.
 
-If find more materials for study, pls take below references:
-
-REFERENCES 
+If further materials for study or research, pls take below references:
 
 [1] A. Kumar, J. Fu, O. Nachum, G. Tucker, and S. Levine, "Stabilizing Off-Policy Q-Learning via Bootstrapping Error Reduction," Advances in Neural Information Processing Systems (NeurIPS), vol. 33, pp. 11794–11805, 2020.
 
